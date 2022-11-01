@@ -1,0 +1,15 @@
+:root {
+    --theme-color: rgba(19, 182, 19, 0.767);
+}
+
+
+ul li {
+    color: rgba(255, 255, 255, .6);
+    transition: .1s;
+    font-size: 20px;
+}
+
+ul li:hover {
+    color: var(--theme-color);
+    font-size: 20px;
+}
