@@ -3,7 +3,7 @@ import './LandingSection.css'
 
 function LandingSection() {
   return (
-    <section className="h-100 w-100 d-flex align-items-center landing-section">
+    <section className="h-100 w-100 d-flex align-items-center  landing-section">
         <div className="content-container d-flex flex-column gap-md-3">
 				<h1 className="text-white">
 					<span className="small mb-5">
