@@ -1,6 +1,3 @@
-:root {
-    --theme-color: rgba(19, 182, 19, 0.767);
-}
 
 .navbar {
     padding: 1% 3% 0 1%;
@@ -19,12 +16,19 @@
     width: 20%;
 }
 
+
+.links li {
+    font-size: 16px;
+    /* font-weight: 600; */
+}
+
+
 .navbar-nav li a {
     text-decoration: none;
     color: rgb(160, 160, 160);
 }
 
 .navbar-nav li a:hover {
-    text-decoration: none;
+    /* text-decoration: none; */
     color: var(--theme-color);
 }

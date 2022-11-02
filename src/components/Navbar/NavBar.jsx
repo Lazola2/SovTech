@@ -20,17 +20,16 @@ function NavBar() {
           aria-label="Toggle navigation"
         >
           <i class="bi bi-list toggle-btn"></i>
-          {/* <span class="navbar-toggler-icon toggle-btn"></span>  */}
         </button>
         <div class="collapse navbar-collapse navigation" id="navbarNav">
-          <ul class="navbar-nav ms-auto d-flex justify-content-between">
-            <li class="py-2">
+          <ul class="navbar-nav links ms-auto d-flex justify-content-between">
+            <li class="">
               <a href="#home-page">Home</a>
             </li>
-            <li class="py-2">
+            <li class="">
               <a href="#about-section">About</a>
             </li>
-            <li class="py-2">
+            <li class="">
               <a href="contact.html">Contact</a>
             </li>
           </ul>
