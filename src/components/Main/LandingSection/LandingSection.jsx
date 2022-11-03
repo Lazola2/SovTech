@@ -10,7 +10,7 @@ function LandingSection() {
 						<span className="blue-text theme-color">Hi</span>, I am <br/>
 					</span>
 				
-					<span className="name theme-color">Siyabonga</span>
+					<span className="name theme-color">Siyabonga Sishi</span>
 				</h1>
 				<p className="text-white about-text lead">
 					I love building amazing apps.

@@ -21,7 +21,7 @@ function NavBar() {
         >
           <i class="bi bi-list toggle-btn"></i>
         </button>
-        <div class="collapse navbar-collapse navigation" id="navbarNav">
+        {/* <div class="collapse navbar-collapse navigation" id="navbarNav">
           <ul class="navbar-nav links ms-auto d-flex justify-content-between">
             <li class="">
               <a href="#home-page">Home</a>
@@ -33,7 +33,7 @@ function NavBar() {
               <a href="contact.html">Contact</a>
             </li>
           </ul>
-        </div>
+        </div> */}
       </div>
     </nav>
   );
